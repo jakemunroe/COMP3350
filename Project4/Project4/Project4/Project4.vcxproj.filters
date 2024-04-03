@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AnagramCounter.java" />
+    <None Include="..\..\AnagramReplace.java" />
+    <None Include="..\..\COMP-3350-Project-4.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="..\..\Jacob_Munroe.asm" />
+  </ItemGroup>
+</Project>

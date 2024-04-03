@@ -1,0 +1,3 @@
+﻿  Assembling ..\..\COMP 3350\Project2\COMP-3350-Project-2-template.asm...
+MASM : fatal error A1000: cannot open file : ..\..\COMP 3350\Project2\COMP-3350-Project-2-template.asm
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\COMP-3350-Project-2-template.obj" /W3 /errorReport:prompt  /Ta"..\..\COMP 3350\Project2\COMP-3350-Project-2-template.asm"" exited with code 1.
